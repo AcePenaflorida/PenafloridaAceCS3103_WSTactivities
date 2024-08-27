@@ -1,2 +1,2 @@
 # Pe-afloridaAceCS3103_WSTactivities
-Complilations of laboratory activies in IT 314.
+Compilations of laboratory activities and exercises in IT 314.
