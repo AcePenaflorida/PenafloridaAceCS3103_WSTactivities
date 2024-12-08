@@ -39,7 +39,7 @@ Feel free to explore and learn from the examples!
 Create a class schedule visualized by an HTML Table and a footer section that contains the list of courses.
 
 **Image:**  
-![Sample Image](path/to/lab1-image.jpg)  
+![Sample Image](Laboratory Activities/Laboratory Activity 2 - 03-10-2024/visionboard-output.png)  
 *Sample Output for Laboratory 1.*
 
 ---
