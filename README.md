@@ -85,10 +85,8 @@ Improve or spice up your Exercise Set 2 by adding animations, custom color palet
 **Description:**  
 Learn to create organized lists using HTML. Explore ordered, unordered, and description lists.
 
-**Image:**  
-![Sample Image](path/to/es1-image.jpg)  
+![Sample Image](Exercise%20Sets/Exercise%20Set%201/ES1--output.png)  
 *Sample Output for Exercise Set 1.*
-
 ---
 
 ### 📌 Exercise Set 2: *About Me*
@@ -96,10 +94,8 @@ Learn to create organized lists using HTML. Explore ordered, unordered, and desc
 **Description:**  
 Create a personalized "About Me" webpage using HTML and CSS. Showcase your profile, interests, and skills.
 
-**Image:**  
-![Sample Image](path/to/es2-image.jpg)  
-*Sample Output for Exercise Set 2.*
-
+![Sample Image](Exercise%20Sets/Exercise%20Set%2002/ES2-output.png)  
+*Sample Output for Exercise Set 02.*
 ---
 
 ## 🙌 Acknowledgments
