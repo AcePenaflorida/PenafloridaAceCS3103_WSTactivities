@@ -3,12 +3,11 @@
 Documentation of laboratory exercises and exercise sets in Web Systems and Technology. Each section includes images, explanations, and insights.
 
 ---
-https://github.com/AcePenaflorida/ALL_CREDENTIALS/blob/main/README.md#-about-this-repository
 
 ## 📋 Table of Contents
 
-1. [About This Repository](https://github.com/AcePenaflorida/ALL_CREDENTIALS/blob/main/README.md#-about-this-repository) 
-2. [Laboratories](#laboratories)  
+1. [About This Repository](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-about-this-repository)
+2. [Laboratories](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-laboratories)  
    - [Laboratory 1](#laboratory-1-my-class-schedule)  
    - [Laboratory 2](#laboratory-2-my-vision-board)  
    - [Laboratory 3](#laboratory-3-word-and-sentence-counter)  
