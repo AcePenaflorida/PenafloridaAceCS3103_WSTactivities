@@ -38,7 +38,6 @@ Feel free to explore and learn from the examples!
 **Objective:**  
 Create a class schedule visualized by an HTML Table and a footer section that contains the list of courses.
 
-**Image:**  
 ![Sample Image](Laboratory%20Activities/Laboratory%20Activity%201%20-%2005-09-2024/lab1-output.png)  
 *Sample Output for Laboratory 1.*
 
@@ -50,7 +49,6 @@ Create a class schedule visualized by an HTML Table and a footer section that co
 **Objective:**  
 Create a personalized vision board webpage using basic HTML and CSS Flexbox.
 
-**Image:**  
 ![Sample Image](Laboratory%20Activities/Laboratory%20Activity%202%20-%2003-10-2024/visionboard-output.png)
 *Sample Output for Laboratory 2.*
 
@@ -61,7 +59,6 @@ Create a personalized vision board webpage using basic HTML and CSS Flexbox.
 **Objective:**  
 Create a tool that counts the number of words and sentences in a given text using JavaScript.
 
-**Image:**  
 ![Sample Image](Laboratory%20Activities/Laboratory%20Activity%203%20-%2019-11-2024/word-sentence-ctr-output.png) 
 *Sample Output for Laboratory 3.*
 
@@ -72,7 +69,6 @@ Create a tool that counts the number of words and sentences in a given text usin
 **Objective:**  
 Improve or spice up your Exercise Set 2 by adding animations, custom color palettes, and enhancing the overall design.
 
-**Image:**  
 ![Sample Image](Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/personal-page-output..png) 
 *Sample Output for Laboratory 4.*
 
@@ -87,6 +83,7 @@ Learn to create organized lists using HTML. Explore ordered, unordered, and desc
 
 ![Sample Image](Exercise%20Sets/Exercise%20Set%201/ES1--output.png)  
 *Sample Output for Exercise Set 1.*
+
 ---
 
 ### 📌 Exercise Set 2: *About Me*
@@ -96,6 +93,7 @@ Create a personalized "About Me" webpage using HTML and CSS. Showcase your profi
 
 ![Sample Image](Exercise%20Sets/Exercise%20Set%2002/ES2-output.png)  
 *Sample Output for Exercise Set 02.*
+
 ---
 
 ## 🙌 Acknowledgments
