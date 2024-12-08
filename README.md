@@ -8,14 +8,14 @@ Documentation of laboratory exercises and exercise sets in Web Systems and Techn
 
 1. [About This Repository](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-about-this-repository)
 2. [Laboratories](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-laboratories)  
-   - [Laboratory 1](#laboratory-1-my-class-schedule)  
-   - [Laboratory 2](#laboratory-2-my-vision-board)  
-   - [Laboratory 3](#laboratory-3-word-and-sentence-counter)  
-   - [Laboratory 4](#laboratory-4-responsive-web-design-glow-up-of-exercise-set-2)  
-3. [Exercise Sets](#exercise-sets)  
-   - [Exercise Set 1](#exercise-set-1-html-list)  
-   - [Exercise Set 2](#exercise-set-2-about-me)  
-4. [Acknowledgments](#acknowledgments)
+   - [Laboratory 1](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-laboratory-1-my-class-schedule)  
+   - [Laboratory 2](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-laboratory-2-my-vision-board)
+   - [Laboratory 3](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-laboratory-3-word-and-sentence-counter) 
+   - [Laboratory 4](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-laboratory-4-responsive-web-design---glow-up-of-exercise-set-2)
+3. [Exercise Sets](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-exercise-sets) 
+   - [Exercise Set 1](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-exercise-set-1-html-list)
+   - [Exercise Set 2](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-exercise-set-2-about-me)
+4. [Acknowledgments](https://github.com/AcePenaflorida/PenafloridaAceCS3103_WSTactivities?tab=readme-ov-file#-acknowledgments)
 
 ---
 
