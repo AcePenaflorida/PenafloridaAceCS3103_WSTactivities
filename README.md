@@ -39,7 +39,7 @@ Feel free to explore and learn from the examples!
 Create a class schedule visualized by an HTML Table and a footer section that contains the list of courses.
 
 **Image:**  
-![Sample Image](Laboratory%20Activities/Laboratory%20Activity%202%20-%2003-10-2024/visionboard-output.png) 
+![Sample Image](Laboratory%20Activities/Laboratory%20Activity%201%20-%2005-09-2024/lab1-output.png)  
 *Sample Output for Laboratory 1.*
 
 
@@ -51,7 +51,7 @@ Create a class schedule visualized by an HTML Table and a footer section that co
 Create a personalized vision board webpage using basic HTML and CSS Flexbox.
 
 **Image:**  
-![Sample Image](path/to/lab2-image.jpg)  
+![Sample Image](Laboratory%20Activities/Laboratory%20Activity%202%20-%2003-10-2024/visionboard-output.png)
 *Sample Output for Laboratory 2.*
 
 ---
@@ -62,7 +62,7 @@ Create a personalized vision board webpage using basic HTML and CSS Flexbox.
 Create a tool that counts the number of words and sentences in a given text using JavaScript.
 
 **Image:**  
-![Sample Image](path/to/lab3-image.jpg)  
+![Sample Image](Laboratory%20Activities/Laboratory%20Activity%203%20-%2019-11-2024/word-sentence-ctr-output.png) 
 *Sample Output for Laboratory 3.*
 
 ---
@@ -73,7 +73,7 @@ Create a tool that counts the number of words and sentences in a given text usin
 Improve or spice up your Exercise Set 2 by adding animations, custom color palettes, and enhancing the overall design.
 
 **Image:**  
-![Sample Image](path/to/lab4-image.jpg)  
+![Sample Image](Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/personal-page-output..png) 
 *Sample Output for Laboratory 4.*
 
 ---
